@@ -1,0 +1,1 @@
+This is a personal project, non-affiliated to QSMP or Quackity.
